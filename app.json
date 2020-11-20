@@ -38,7 +38,7 @@
       "description": "Optional: URL to imprint. The link is shown on the invite page.",
       "required": false
     },
-    "TWO_STEP_SESSION": {
+    "FASTLANE_SESSION": {
       "description": "Optional",
       "required": false
     }
